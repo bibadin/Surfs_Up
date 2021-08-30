@@ -2,11 +2,11 @@
 SQL Lite
 
 ## Overview of Analysis
-The purpose of this analysis was to determine the trends in temperatures during the months of Decemeber and June in Oahu to determine if a surf and ice cream shop would be sustainable all year round.
+The purpose of this analysis was to determine the trends in temperatures during the months of December and June in Oahu to determine if a surf and ice cream shop would be sustainable all year round.
 
 ## Results
 
-* The average tempertures of Decemeber and June are both in the low 70s (71 and 74 respectivefully).
+* The average tempertures of December and June are both in the low 70s (71 and 74 respectivefully).
 * The maximum tempertures for December and June are both in the 80s (83 and 85 respectivefully).
 * The lowest temperature in December is in the 64.
 
